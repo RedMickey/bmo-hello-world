@@ -21,8 +21,8 @@ steps:
   - bash: npm ci
     displayName: "npm ci"
 
-  - bash: npm run build
-    displayName: "npm run build"
+  - bash: npm run compile
+    displayName: "npm run compile"
   
   - bash: vsce package
     displayName: "vsce package"
