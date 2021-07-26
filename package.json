@@ -2,7 +2,7 @@
 	"name": "bmo-hello-world",
 	"displayName": "BMO Hello World",
 	"description": "Test extension",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "bmo-test",
 	"repository": {
 		"type": "git",
